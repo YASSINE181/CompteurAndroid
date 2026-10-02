@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Compteur Android</string>
+
+    <string name="compteur_zero">0</string>
+    <string name="bouton_incrementer">+</string>
+    <string name="bouton_decrementer">-</string>
+    <string name="bouton_reinitialiser">Réinitialiser</string>
+
+</resources>
